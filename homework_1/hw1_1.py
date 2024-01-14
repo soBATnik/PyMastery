@@ -17,3 +17,4 @@ print(user_string[::-1])
 print(user_string[::-2])
 
 print(len(user_string))
+

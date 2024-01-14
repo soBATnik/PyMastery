@@ -6,3 +6,4 @@ for i in range(len(user_input)):
         new_string = new_string + user_input[i]
 print(new_string)
 
+
