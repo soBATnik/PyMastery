@@ -4,4 +4,4 @@ kcal_per_time = []
 
 for i in time_list:
     kcal_per_time.append(i * kcal_per_min)
-    print(f'{i}min - {kcal_per_min} kcal')
+    print(f'{i}min - {i * kcal_per_min} kcal')
