@@ -1,7 +1,6 @@
 def counter(user_input):
     count_dict = dict()
-    user_input_list = user_input
-    for key in user_input_list:
+    for key in user_input:
         if key in count_dict:
             count_dict[key] += 1
         else:
