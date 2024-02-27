@@ -10,3 +10,4 @@ i = 1
 while i != 11:
     print(f"{i} - {get_falling_distance(i):.2f}")
     i += 1
+

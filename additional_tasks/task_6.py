@@ -10,3 +10,4 @@ amount_places_b = float(input("Amount of B-class tickets: "))
 amount_places_c = float(input("Amount of C-class tickets: "))
 
 print(f"Total revenue is {get_revenue(amount_places_a, amount_places_b, amount_places_c)}")
+
